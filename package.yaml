@@ -2,13 +2,12 @@ name:                nock-hs
 version:             0.1.0.0
 github:              "githubuser/nock-hs"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2022 Author name here"
+author:              "Henry Blanchette"
+maintainer:          "blancheh@umd.edu"
+copyright:           "2022 Henry Blanchette"
 
 extra-source-files:
 - README.md
-- ChangeLog.md
 
 # Metadata used when publishing your package
 # synopsis:            Short description of your package

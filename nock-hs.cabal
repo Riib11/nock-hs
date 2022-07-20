@@ -9,15 +9,14 @@ version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/nock-hs#readme>
 homepage:       https://github.com/githubuser/nock-hs#readme
 bug-reports:    https://github.com/githubuser/nock-hs/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2022 Author name here
+author:         Henry Blanchette
+maintainer:     blancheh@umd.edu
+copyright:      2022 Henry Blanchette
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
     README.md
-    ChangeLog.md
 
 source-repository head
   type: git
